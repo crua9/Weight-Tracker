@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weight Tracker</string>
+    <string name="lb">LB</string>
+    <!-- need to find what the metric is. I think it's KG-->
+    <string name="metric">KG</string>
+</resources>
